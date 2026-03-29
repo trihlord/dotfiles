@@ -29,5 +29,6 @@ bindkey '^[[B' down-line-or-beginning-search
 bindkey '^[[1;5C' forward-word
 bindkey '^[[1;5D' backward-word
 
+source /usr/share/nvm/init-nvm.sh
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
